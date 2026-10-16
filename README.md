@@ -1,4 +1,4 @@
-Software engineer with nearly 10 years of experience, now Technical Lead at Jacquet Metals. I design business-critical platforms and lead a team of senior engineers, from technical vision to production code.
+Software engineer with nearly 10 years of experience, now Technical Lead at TeamXtend, on assignment at Jacquet Metals. I design business-critical platforms and lead a team of senior engineers, from technical vision to production code.
 
 ### ⚙️ What I do
 I build complex systems in PHP / Symfony, structured around Domain-Driven Design and Hexagonal Architecture (~22 bounded contexts). I work across the full stack: Oracle SQL and Doctrine data modeling, REST API design, Angular front-ends and a Flutter mobile app. Constant priority: tested, reviewed code and performance that holds at scale.
