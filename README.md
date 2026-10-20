@@ -16,27 +16,6 @@ By day I modernize a legacy ERP into a Symfony platform built on DDD and Hexagon
 
 <br/>
 
-## How I build
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>Model first</b><br/>
-<sub>Aggregates that are always valid, explicit bounded contexts, and a domain that does not know Doctrine exists.</sub>
-</td>
-<td width="33%" valign="top">
-<b>Performance by design</b><br/>
-<sub>Sargable Oracle queries, execution plans read before merge, data models that hold at scale.</sub>
-</td>
-<td width="33%" valign="top">
-<b>AI as a tool, humans in charge</b><br/>
-<sub>Agents read, search and propose. Design, review and releases stay under human control.</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## Tech Stack
 
 <table>
