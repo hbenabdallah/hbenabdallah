@@ -117,13 +117,6 @@ By day I modernize a legacy ERP into a Symfony platform built on DDD and Hexagon
 </picture>
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hbenabdallah&hide_border=true&area=true&color=0f766e&line=0f766e&point=0f766e&area_color=2dd4bf" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hbenabdallah&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=e6edf3&area_color=2dd4bf&title_color=2dd4bf" />
-</picture>
-</div>
-
 <br/>
 
 ## Background
