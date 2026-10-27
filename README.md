@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:112a2e,100:2dd4bf&height=220&section=header&text=Houssem%20Ben%20Abdallah&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Technical%20Lead%20%7C%20PHP%20%C2%B7%20Symfony%20%C2%B7%20Laravel%20%7C%20DDD%20%C2%B7%20Hexagonal%20Architecture&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Houssem Ben Abdallah" />
+</p>
 
 <div align="center">
 
