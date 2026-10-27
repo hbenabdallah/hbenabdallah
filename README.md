@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Houssem Ben Abdallah" />
+  <img src="https://raw.githubusercontent.com/hbenabdallah/hbenabdallah/main/header.svg" width="100%" alt="Houssem Ben Abdallah" />
 </p>
 
 <div align="center">
