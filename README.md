@@ -114,7 +114,7 @@ By day I modernize a legacy ERP into a Symfony platform built on DDD and Hexagon
   <img width="49%" src="https://readme-stats-fast.vercel.app/api?username=hbenabdallah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf&include_all_commits=true&count_private=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hbenabdallah&hide_border=true&ring=0f766e&fire=0f766e&currStreakLabel=0f766e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.vercel.app/?user=hbenabdallah&hide_border=true&ring=0f766e&fire=0f766e&currStreakLabel=0f766e" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=hbenabdallah&hide_border=true&background=0d1117&stroke=161b22&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
 </picture>
 </div>
