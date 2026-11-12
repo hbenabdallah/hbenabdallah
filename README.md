@@ -96,10 +96,10 @@ By day I modernize a legacy ERP into a Symfony platform built on DDD and Hexagon
 <img src="https://img.shields.io/github/v/release/hbenabdallah/phpgraph?style=flat-square&color=2dd4bf&labelColor=0d1117&label=release"/>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/nunomaduro/dev-null.sh"><b>dev-null.sh</b></a><br/>
-<sub>Contributor to /dev/null, the social network for developers by Nuno Maduro.</sub><br/><br/>
-<img src="https://img.shields.io/github/stars/nunomaduro/dev-null.sh?style=flat-square&color=2dd4bf&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/forks/nunomaduro/dev-null.sh?style=flat-square&color=2dd4bf&labelColor=0d1117"/>
+<a href="https://github.com/hbenabdallah/airlock"><b>airlock</b></a><br/>
+<sub>An MCP server that lets any agent run commands in a sandbox, asking you first about the ones that matter.</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/hbenabdallah/airlock?style=flat-square&color=2dd4bf&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/v/release/hbenabdallah/airlock?style=flat-square&color=2dd4bf&labelColor=0d1117&label=release"/>
 </td>
 </tr>
 </table>
@@ -109,14 +109,8 @@ By day I modernize a legacy ERP into a Symfony platform built on DDD and Hexagon
 ## GitHub Stats
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api?username=hbenabdallah&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&ring_color=0f766e&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://readme-stats-fast.vercel.app/api?username=hbenabdallah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf&include_all_commits=true&count_private=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.vercel.app/?user=hbenabdallah&hide_border=true&ring=0f766e&fire=0f766e&currStreakLabel=0f766e" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=hbenabdallah&hide_border=true&background=0d1117&stroke=161b22&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
-</picture>
+<img width="49%" src="https://raw.githubusercontent.com/hbenabdallah/hbenabdallah/main/stats.svg" alt="GitHub stats" />
+<img width="49%" src="https://raw.githubusercontent.com/hbenabdallah/hbenabdallah/main/streak.svg" alt="Contribution streak" />
 </div>
 
 <br/>
@@ -134,6 +128,9 @@ Always happy to talk about **DDD**, **applied AI** or **scaling engineering team
 <a href="https://github.com/hbenabdallah/sherpa">
 <img src="https://img.shields.io/badge/Sherpa-0d1117?style=for-the-badge&logo=gnubash&logoColor=2dd4bf"/>
 </a>
+<a href="https://github.com/hbenabdallah/airlock">
+<img src="https://img.shields.io/badge/airlock-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=2dd4bf"/>
+</a>
 <a href="https://github.com/hbenabdallah/phpgraph">
 <img src="https://img.shields.io/badge/phpgraph-0d1117?style=for-the-badge&logo=php&logoColor=2dd4bf"/>
 </a>
@@ -145,4 +142,4 @@ Always happy to talk about **DDD**, **applied AI** or **scaling engineering team
 <img src="https://komarev.com/ghpvc/?username=hbenabdallah&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:112a2e,100:2dd4bf&height=120&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/hbenabdallah/hbenabdallah/main/footer.svg" alt="" />
